@@ -11,8 +11,8 @@ cout<<"4<==Wyjście"<<endl;
 do{
 switch(wybor){
 case 1: wynik=Dodawanie();cout<<wynik<<endl;system("pause");system("cls");break;
-case 2: wynik=Dodawanie();cout<<wynik<<endl;system("pause");system("cls");break;
-case 3: wynik=Dodawanie();cout<<wynik<<endl;system("pause");system("cls");break;
+case 2: wynik=mnozenie();cout<<wynik<<endl;system("pause");system("cls");break;
+case 3: wynik=odejmowani();cout<<wynik<<endl;system("pause");system("cls");break;
 default:system("cls");break;
 }
 
