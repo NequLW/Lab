@@ -1,3 +1,5 @@
+//To robił Dolo
+
 #include<ostream>
 using namespace std;
 
