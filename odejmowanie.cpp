@@ -1,3 +1,6 @@
+#include<ostream>
+using namespace std;
+
 int main{
 
 int b;
