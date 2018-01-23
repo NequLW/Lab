@@ -1,4 +1,4 @@
-//To robił Dolo ver. 1.4.5
+//To robił Dolo ver. 1.4.7
 
 #include<iostream>
 using namespace std;
