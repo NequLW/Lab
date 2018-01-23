@@ -11,5 +11,6 @@ cout<<endl;
 cin>>b;
     cout<<"Wynik dodawania to:  "<<endl;
 	return a+b;
+// zrobiłem
 
 }
