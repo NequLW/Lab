@@ -9,12 +9,13 @@ int odejmowani()
   
 int b;
 int a;
+int od;
 cout<<"Podaj a: "
 cin>> a;
 cout<<"Podaj b: "
 cin>> b;
-cout<<"Wynik odejmowania to";
+cout<<"Wynik odejmowania to :";
 
-
-return a - b ;
+od=a-b;
+return od;
 }
