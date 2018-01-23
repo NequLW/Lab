@@ -1,5 +1,11 @@
 #include<iostream>
+#include"Dodawanie.cpp"
+#include"mnozenie.cpp"
+#include"odejmowanie.cpp"
 using namespace std;
+
+int Dodawanie();int mnozenie();int odejmowani();
+
 int main{
 setlocale(LC_ALL, "");
 int wynik,liczba;
