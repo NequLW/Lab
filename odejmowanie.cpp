@@ -1,6 +1,6 @@
-//To robił Dolo
+//To robił Dolo ver. 1.4.5
 
-#include<ostream>
+#include<iostream>
 using namespace std;
 
 int odejmowani()
@@ -13,8 +13,8 @@ cout<<"Podaj a: "
 cin>> a;
 cout<<"Podaj b: "
 cin>> b;
-cout<<"Wynik odejmowania to "<< a-b;
+cout<<"Wynik odejmowania to";
 
 
-return 0;
+return a - b ;
 }
