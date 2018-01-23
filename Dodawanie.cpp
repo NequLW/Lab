@@ -4,7 +4,7 @@ int Dodawanie()
 {
 setlocale(LC_ALL, "");
 int a,b;
-cout<<"Podaj 2 liczby:"<<endl;
+cout<<"Podaj 2 liczby:";
 cin>>a;
 cout<<endl;
 cin>>b;
