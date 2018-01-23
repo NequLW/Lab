@@ -4,7 +4,7 @@
 #include"odejmowanie.cpp"
 #include<cstdlib>
 using namespace std;
-
+//#Piotr
 int Dodawanie();int mnozenie();int odejmowani();
 
 int main{
