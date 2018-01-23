@@ -2,7 +2,6 @@
 using namespace std;
 int mnozenie()
 {
-setlocale(LC_ALL,"";
 int a,b;
 int suma;
 cout<<"Podaj 2 liczby"<<endl;
