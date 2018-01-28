@@ -1,0 +1,222 @@
+[33mcommit bf0892c082905a305aa348b7cfe775b3135377b1[m
+Author: Piotr Kulesza <piotrkulesza16@onet.pl>
+Date:   Tue Jan 23 14:20:41 2018 +0100
+
+    poprawienie
+
+[33mcommit 5d5040d76e5b87545b9c2c5535e3630ba74996b0[m
+Author: Piotr Kulesza <piotrkulesza16@onet.pl>
+Date:   Tue Jan 23 14:10:56 2018 +0100
+
+    Połączenie plików
+
+[33mcommit 3faad09e4a8214e27e557a6fde535b5359220dba[m
+Author: Piotr Kulesza <piotrkulesza16@onet.pl>
+Date:   Tue Jan 23 14:08:12 2018 +0100
+
+    menu poprawione
+
+[33mcommit 9a572dafc8f561bc3f3d583b6bc2027bc810c0cd[m
+Author: Piotr Kulesza <piotrkulesza16@onet.pl>
+Date:   Tue Jan 23 14:06:08 2018 +0100
+
+    Beta menu
+
+[33mcommit 7c94afed708f85de017e0a48a58834670c73fda0[m
+Author: Piotr Kulesza <piotrkulesza16@onet.pl>
+Date:   Tue Jan 23 13:55:32 2018 +0100
+
+    Dodanie zmiennej
+
+[33mcommit 3dc4df457a961d924d594e85fa5bc8029a0242e6[m
+Author: Kacper <kacdur003@utp.edu.pl>
+Date:   Tue Jan 23 13:51:06 2018 +0100
+
+    durol
+
+[33mcommit aab3c5c7595d72780b24a52fbfa85c70456bfc04[m
+Author: Kacper <kacdur003@utp.edu.pl>
+Date:   Tue Jan 23 13:49:50 2018 +0100
+
+    durol
+
+[33mcommit 071b00a76f9cafc3058b5049da3afecca8c0c9a0[m
+Author: Marcin Knap <markna000utp.edu.pl>
+Date:   Tue Jan 23 13:48:51 2018 +0100
+
+    marcin
+
+[33mcommit fc88d74cab6e2793ad698b7a6676a8e802a54505[m
+Author: Marcin Knap <markna000utp.edu.pl>
+Date:   Tue Jan 23 13:47:17 2018 +0100
+
+    marcin
+
+[33mcommit 97928645c38796b75f4c87a32519f7de44696765[m
+Author: Marcin Knap <markna000utp.edu.pl>
+Date:   Tue Jan 23 13:44:19 2018 +0100
+
+    marcin
+
+[33mcommit eae15a2cd5dbdf3a231276f4f3372d00377f19d9[m
+Merge: 235ccce 43e1b2a
+Author: Kacper <kacdur003@utp.edu.pl>
+Date:   Tue Jan 23 13:41:51 2018 +0100
+
+    Merge branch 'master' of https://github.com/NequLW/Lab
+
+[33mcommit 235ccceba6533ba4cbad4829f6b2ad39d266494c[m
+Author: Kacper <kacdur003@utp.edu.pl>
+Date:   Tue Jan 23 13:41:28 2018 +0100
+
+    durol
+
+[33mcommit 43e1b2a9fbc7435ee0150eccaad5958356fbd4fe[m
+Author: Marcin Knap <markna000utp.edu.pl>
+Date:   Tue Jan 23 13:41:17 2018 +0100
+
+    marcin
+
+[33mcommit 5f933345713c9af339a843fd72fa8258d8a6bc65[m
+Author: Kacper <kacdur003@utp.edu.pl>
+Date:   Tue Jan 23 13:39:28 2018 +0100
+
+    durol
+
+[33mcommit aee636ab8debfbd9dbf6703784a431e5bdd12142[m
+Author: Kacper <kacdur003@utp.edu.pl>
+Date:   Tue Jan 23 13:36:38 2018 +0100
+
+    durol
+
+[33mcommit 78cfeea3d4dce15c84903bde10f5c647713c8d05[m
+Merge: 15cb289 09b5183
+Author: Marcin Knap <markna000utp.edu.pl>
+Date:   Tue Jan 23 13:33:30 2018 +0100
+
+    Merge branch 'master' of https://github.com/NequLW/Lab
+
+[33mcommit 15cb28990903e142e2d98e53fece17ccba9d5f3e[m
+Author: Marcin Knap <markna000utp.edu.pl>
+Date:   Tue Jan 23 13:33:17 2018 +0100
+
+    marcin
+
+[33mcommit 09b5183af0beab71d46c5345b5564fe4c6a7af6c[m
+Author: NequLW <mackor002@utp.edu.pl>
+Date:   Tue Jan 23 13:31:58 2018 +0100
+
+    7 commit
+
+[33mcommit 99ca5cf948afa0a3c82b18f1033fd6b25dda07f8[m
+Author: NequLW <mackor002@utp.edu.pl>
+Date:   Tue Jan 23 13:29:03 2018 +0100
+
+    6 commit
+
+[33mcommit 064b861f33a49dfb8c5dbd6f6c992495e41f5996[m
+Author: NequLW <mackor002@utp.edu.pl>
+Date:   Tue Jan 23 13:27:35 2018 +0100
+
+    piaty commit
+
+[33mcommit 1cfcaa59091baeaf5584cc9471d21d3b902c4583[m
+Author: Kacper <kacdur003@utp.edu.pl>
+Date:   Tue Jan 23 13:25:55 2018 +0100
+
+    durol
+
+[33mcommit c3c29d4cb284f1453cbba80af11d914ee667dc2f[m
+Merge: 2defe6f 42aa3e5
+Author: Kacper <kacdur003@utp.edu.pl>
+Date:   Tue Jan 23 13:22:20 2018 +0100
+
+    Merge branch 'master' of https://github.com/NequLW/Lab
+
+[33mcommit 42aa3e5c18ea680aaee6de94f9a8e5305458e67b[m
+Merge: 16447e1 2b1f490
+Author: Marcin Knap <markna000utp.edu.pl>
+Date:   Tue Jan 23 13:20:46 2018 +0100
+
+    Merge branch 'master' of https://github.com/NequLW/Lab
+
+[33mcommit 2defe6facf69de13fe706bd4d9d59b1be55a93f5[m
+Merge: 54e5b2a 2b1f490
+Author: Kacper <kacdur003@utp.edu.pl>
+Date:   Tue Jan 23 13:20:34 2018 +0100
+
+    Merge branch 'master' of https://github.com/NequLW/Lab
+
+[33mcommit 54e5b2ac6568c45b4a0207f4bcffee47182290db[m
+Author: Kacper <kacdur003@utp.edu.pl>
+Date:   Tue Jan 23 13:19:32 2018 +0100
+
+    durol
+
+[33mcommit 16447e1c0e28464131d1f49afbf706e38254adca[m
+Author: Marcin Knap <markna000utp.edu.pl>
+Date:   Tue Jan 23 13:18:40 2018 +0100
+
+    marcin
+
+[33mcommit 2b1f4900ded2441ce112be2fa87cc5075d5c30e2[m
+Author: NequLW <mackor002@utp.edu.pl>
+Date:   Tue Jan 23 13:18:32 2018 +0100
+
+    czwarty commit
+
+[33mcommit 5aebe0d1c5e1b397d07fa7ace80998f71234c5f2[m
+Merge: b07bbdd fcedb07
+Author: Marcin Knap <markna000utp.edu.pl>
+Date:   Tue Jan 23 13:12:34 2018 +0100
+
+    Merge branch 'master' of https://github.com/NequLW/Lab
+
+[33mcommit b07bbddcf67c9c0b9fafd0053482d389b53aaeee[m
+Author: Marcin Knap <markna000utp.edu.pl>
+Date:   Tue Jan 23 13:08:15 2018 +0100
+
+    marcin
+
+[33mcommit fcedb0783fd59e3a7a2387cda13fdc27f2774fb1[m
+Author: NequLW <mackor002@utp.edu.pl>
+Date:   Tue Jan 23 13:06:41 2018 +0100
+
+    trzeci commit
+
+[33mcommit 15e94cf3084d494e089611ec20e24f0b7eab7ca0[m
+Author: Piotr Kulesza <piotrkulesza16@onet.pl>
+Date:   Tue Jan 23 13:05:27 2018 +0100
+
+    Usunięcie folderu Dodawanie
+
+[33mcommit 58d6517d8abfec5558abed44aad31d37ffb823e5[m
+Merge: 7ac33d3 7106802
+Author: NequLW <mackor002@utp.edu.pl>
+Date:   Tue Jan 23 12:59:31 2018 +0100
+
+    Merge branch 'master' of https://github.com/NequLW/Lab
+
+[33mcommit 7ac33d324d7703348a9957081222684e7afab7a4[m
+Author: NequLW <mackor002@utp.edu.pl>
+Date:   Tue Jan 23 12:57:49 2018 +0100
+
+    drugi commit
+
+[33mcommit 710680263fbe85d6c65cc7f76e0b61c20a4144b3[m
+Author: Piotr Kulesza <piotrkulesza16@onet.pl>
+Date:   Tue Jan 23 12:53:51 2018 +0100
+
+    Dodanie pustej funkcji main
+
+[33mcommit 0f59da735ca45754f84755368f1fc9363ee3cc64[m
+Author: NequLW <mackor002@utp.edu.pl>
+Date:   Tue Jan 23 12:45:59 2018 +0100
+
+    pierwszy commit
+
+[33mcommit 98bab0566a18d36057280a900a0b8ae4ef671bfd[m
+Author: Piotr Kulesza <piotrkulesza16@onet.pl>
+Date:   Tue Jan 23 12:36:30 2018 +0100
+
+    Dodanie README.md

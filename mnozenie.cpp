@@ -11,3 +11,4 @@ cout<<"Wynik mnożenia"<<endl;
 suma=a*b;
 return suma;
 }
+//dziala
