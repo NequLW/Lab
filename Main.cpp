@@ -24,7 +24,7 @@ default:system("cls");break;
 
 }while(liczba!=4);
 
-
+// dodałem sobie komentarz
 
 return 0;
 }
