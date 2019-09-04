@@ -5,14 +5,12 @@ using namespace std;
 
 int odejmowani(){
 
-  setlocale(LC_ALL, "");
-  
 int b;
 int a;
 int od;
-cout<<"Podaj a: "
+cout<<"Podaj a: ";
 cin>> a;
-cout<<"Podaj b: "
+cout<<"Podaj b: ";
 cin>> b;
 cout<<"Wynik odejmowania to :";
 
